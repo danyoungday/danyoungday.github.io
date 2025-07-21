@@ -64,6 +64,13 @@
     }
   ],
   "presentations": [
+    {
+      "name": "Survival of the Smartest: Evolutionary AI for Social Good",
+      "event": "Big Brain SF",
+      "date": "2025-07-02",
+      "location": "San Francisco, CA, USA",
+      "description": "A more casual talk consisting of a primer on evolutionary AI and then my work on how it can be applied for social good such as land-use allocation and climate change policy generation."
+    }
   ],
   "teaching": [
   ],

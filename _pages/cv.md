@@ -50,11 +50,11 @@ Skills
 * Software Engineering
   * Git, Docker, React, SQLAlchemy, Selenium, Gitlab CI/CD, AWS Deployment, Agile Methodologies
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Teaching
 ======
