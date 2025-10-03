@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D. Student at The University of Texas at Austin, Fall 2025
+* Ph.D. Student, The University of Texas at Austin, Started Fall 2025
 * M.S. Data Science, Columbia University, 2023
 * B.S. Computer Science, The University of Texas at Austin, 2022
 
